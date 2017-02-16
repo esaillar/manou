@@ -2,11 +2,9 @@
 layout: page
 ---
 
-<div class="page-header">
-<h1>
-<img src="/resources/moi.jpg" class="prof-picture" title="photo"/>
-
-<div>Emmanuelle Saillard</div></h1>
+<div class="page-header row">
+<div class="col-sm-2 prof-picture"><img src="/resources/moi.jpg" title="photo"/></div>
+<div class="col-sm-10"><h1>Emmanuelle Saillard</h1></div>
 </div>
 
 
