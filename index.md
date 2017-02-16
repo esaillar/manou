@@ -3,7 +3,7 @@ layout: page
 ---
 
 <div class="page-header row">
-<div class="col-sm-2 prof-picture"><img src="/resources/moi.jpg" title="photo"/></div>
+<div class="col-sm-2 prof-picture"><img src="{{site.baseurl}}/resources/moi.jpg" title="photo"/></div>
 <div class="col-sm-10"><h1>Emmanuelle Saillard</h1></div>
 </div>
 
@@ -17,7 +17,7 @@ I am currently a postdoc at Inria Grenoble in the CORSE team.
 </p>
 
 <p>
-You can download my <a href="/resources/cv_eng.pdf" target="_blank">CV</a> (french version available <a href="/resources/cv_french.pdf" target="_blank">here</a> ).
+You can download my <a href="{{site.baseurl}}/resources/cv_eng.pdf" target="_blank">CV</a> (french version available <a href="{{site.baseurl}}/resources/cv_french.pdf" target="_blank">here</a> ).
 </p>
 
 </div>
