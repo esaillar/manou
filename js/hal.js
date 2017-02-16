@@ -1,5 +1,5 @@
 //Assumes jQuery is already loaded
-function load_from_hal(id) {
+function load_from_hal(id, site_baseurl) {
     var baseUrl = "https://api.archives-ouvertes.fr/search?q=contributorId_i:" + id;
     baseUrl += "&fl=docid,title_s,authFullName_s,conferenceTitle_s,journalTitle_s,fileMain_s,halId_s,producedDateY_i";
     console.log(baseUrl);
@@ -35,9 +35,9 @@ function load_from_hal(id) {
                 html += title + '</a></p>';
                 html += '<p>' + author + '<br/><em>' + confTitle + '</em><br/>';
                 html += '<a href="' + val.fileMain_s + '" target="_blank">';
-                html += '<img src="/resources/pdf.png" alt="pdf" /></a>\n';
+                html += '<img src="' + site_baseurl + '/resources/pdf.png" alt="pdf" /></a>\n';
                 html += '<a href="https://hal.inria.fr/' + val.halId_s + '/bibtex" target="_blank">';
-                html += '<img src="/resources/bibtex.png" alt="Bibtex" /></a>\n</p>';
+                html += '<img src="' + site_baseurl + '/resources/bibtex.png" alt="Bibtex" /></a>\n</p>';
                 html += '</li>';
             });
             html += "</ul>";

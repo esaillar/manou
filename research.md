@@ -20,6 +20,6 @@ I am interested in the development of tools that aim at debugging and optimizing
 
 <div id="publications-hal">Loading publications from HAL...</div>
 <script src="{{site.baseurl}}/js/hal.js"></script>
-<script>load_from_hal("184161");</script>
+<script>load_from_hal("184161", "{{site.baseurl}}");</script>
 
 </div>
