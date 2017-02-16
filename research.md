@@ -18,12 +18,8 @@ I am interested in the development of tools that aim at debugging and optimizing
 <div class="well" markdown="1">
 # Publications
 
-some text
+<div id="publications-hal">Loading publications from HAL...</div>
+<script src="{{site.baseurl}}/js/hal.js"></script>
+<script>load_from_hal("184161");</script>
+
 </div>
-
-
-<div class="page-header">
-<h1>Some title</h1>
-</div>
-
-Some **text**
