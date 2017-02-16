@@ -10,8 +10,7 @@ Research topics
 </div>
 <div class="panel-body" markdown="1">
 
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am interested in the development of tools that aim at debugging and optimizing HPC applications.
 
 </div>
 </div>
@@ -27,4 +26,4 @@ some text
 <h1>Some title</h1>
 </div>
 
-Some *text*
+Some **text**
