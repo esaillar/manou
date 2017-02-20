@@ -9,16 +9,26 @@ layout: page
 
 
 
+Welcome to my website! It is still in progress..
+
 <div class="well" markdown="1">
 # About me
 
 <p>
-I am currently a postdoc at Inria Grenoble in the CORSE team.
+I am currently a postdoc at Inria Grenoble in the CORSE team. 
 </p>
 
 <p>
 You can download my <a href="{{site.baseurl}}/resources/cv_eng.pdf" target="_blank">CV</a> (french version available <a href="{{site.baseurl}}/resources/cv_french.pdf" target="_blank">here</a> ).
 </p>
+
+
+# Previous positions
+
+Postdoc at University of California Berkeley (USA)
+ 
+PhD at CEA/University of Bordeaux (France)
+
 
 </div>
 
