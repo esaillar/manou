@@ -4,22 +4,26 @@ title: Research
 permalink: /research/
 ---
 
-<div class="panel panel-primary">
-<div class="panel-heading">
-Research topics
+<div class="well" markdown="1">
+# Research topics
 </div>
-<div class="panel-body" markdown="1">
 
-I am interested in the development of tools that aim at debugging and optimizing HPC applications.
+I am interested in the development of tools that aim at **debugging** and **optimizing** HPC applications.
 
-</div>
-</div>
+I began my thesis by focusing on a two-step detection of MPI collective errors in MPI applications. The first step statically identifies the reduced set of collective communications that may eventually lead to potential deadlock situations,
+ and issues warnings. Using this analysis, a selective instrumentation of the code is then achieved, displaying an error, synchronously
+ interrupting all processes, if the schedule leads to a deadlock situation. We observed a low compile-time and runtime overhead. This encourages us to 
+ extend our method to multi-threaded contexts. The correctness of hybrid programs like MPI+OpenMP
+ programs requires a special care regarding
+ MPI calls location. The extension I proposed detect misuse of MPI collective operations inside and outside threaded regions.
+ I adapted quite naturally this method to detect misuse of barriers and worksharing constructs in OpenMP applications.
+ These features were regrouped in **PARCOACH**, a GCC plugin. Approach that we successfully applied to multiple benchmarks and applications.
 
 <div class="well" markdown="1">
 # Publications
 
+</div>
 <div id="publications-hal">Loading publications from HAL...</div>
 <script src="{{site.baseurl}}/js/hal.js"></script>
 <script>load_from_hal("184161", "{{site.baseurl}}");</script>
 
-</div>

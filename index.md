@@ -30,4 +30,3 @@ You can download my <a href="{{site.baseurl}}/resources/cv_eng.pdf" target="_bla
 You can contact me at the following email address: emmanuelle (dot) saillard (at) inria (dot) fr
 
 </div>
-
