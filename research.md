@@ -25,5 +25,5 @@ I began my thesis by focusing on a two-step detection of MPI collective errors i
 </div>
 <div id="publications-hal">Loading publications from HAL...</div>
 <script src="{{site.baseurl}}/js/hal.js"></script>
-<script>load_from_hal("184161", "{{site.baseurl}}");</script>
+<script>load_from_hal("184161", "Emmanuelle Saillard" ,"{{site.baseurl}}");</script>
 
