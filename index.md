@@ -9,13 +9,15 @@ layout: page
 
 
 
-Welcome to my website! It is still in progress..
+Welcome to my website!  ----- Sorry website in process of construction -----
 
 <div class="well" markdown="1">
 # About me
 
 <p>
-I am currently a postdoc at Inria Grenoble in the CORSE team. 
+Hi, my name is Emmanuelle and I am a Postdoc in the Inria Corse team. I joined the team in december 1st, 2016 after one-year Postdoc position in the University of California Berkeley.
+I have obtained a M.Sc in Computer Science in 2012 from the University of Versailles, and a PhD in Computer science from the University of Bordeaux in 2015.
+My main interests are code analysis for debugging and optimization of High-Performance Computing applications.
 </p>
 
 <p>
@@ -40,3 +42,5 @@ PhD at CEA/University of Bordeaux (France)
 You can contact me at the following email address: emmanuelle (dot) saillard (at) inria (dot) fr
 
 </div>
+
+<h3>Emmanuelle Saillard - Copyright &copy; 2010 - all right reserved</h3>
