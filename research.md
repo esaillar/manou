@@ -4,10 +4,11 @@ title: Research
 permalink: /research/
 ---
 
-<div class="well" markdown="1">
-# Research topics
-</div>
-
+<div class="panel panel-success" markdown="1">
+  <div class="panel-heading">
+    <h3 class="panel-title">Research topics</h3>
+  </div>
+  <div class="panel-body">
 I am interested in the development of tools that aim at **debugging** and **optimizing** HPC applications.
 
 I began my thesis by focusing on a two-step detection of MPI collective errors in MPI applications. The first step statically identifies the reduced set of collective communications that may eventually lead to potential deadlock situations,
@@ -21,11 +22,22 @@ I began my thesis by focusing on a two-step detection of MPI collective errors i
 
 Since December 2016, I am working on the European project HPC4E. My goal is to optimize kernels of some applications developed in the project with the metaprogramming language BOAST.
 
-<div class="well" markdown="1">
-# Publications
-
+  </div>
 </div>
+
+
+
+<div class="panel panel-success" markdown="1">
+  <div class="panel-heading">
+    <h3 class="panel-title">Publications</h3>
+  </div>
+  <div class="panel-body">
 <div id="publications-hal">Loading publications from HAL...</div>
 <script src="{{site.baseurl}}/js/hal.js"></script>
 <script>load_from_hal("184161", "Emmanuelle Saillard" ,"{{site.baseurl}}");</script>
+  </div>
+</div>
+
+
+
 

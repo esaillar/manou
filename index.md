@@ -9,38 +9,32 @@ layout: page
 
 
 
-Welcome to my website!  ----- Sorry website in process of construction -----
+Welcome to my website!
 
-<div class="well" markdown="1">
-# About me
+<div class="alert alert-warning" role="alert">----- Sorry website in process of construction -----</div>
 
-<p>
+
+<div class="panel panel-success" markdown="1">
+  <div class="panel-heading">
+    <h3 class="panel-title">About me</h3>
+  </div>
+  <div class="panel-body">
 Hi, my name is Emmanuelle and I am a Postdoc in the Inria Corse team. I joined the team in december 1st, 2016 after one-year Postdoc position in the University of California Berkeley.
 I have obtained a M.Sc in Computer Science in 2012 from the University of Versailles, and a PhD in Computer science from the University of Bordeaux in 2015.
 My main interests are code analysis for debugging and optimization of High-Performance Computing applications.
-</p>
 
-<p>
+
 You can download my <a href="{{site.baseurl}}/resources/cv_eng.pdf" target="_blank">CV</a> (french version available <a href="{{site.baseurl}}/resources/cv_french.pdf" target="_blank">here</a> ).
-</p>
-
-
-# Previous positions
-
-Postdoc at University of California Berkeley (USA)
- 
-PhD at CEA/University of Bordeaux (France)
-
-
+  </div>
 </div>
 
-
-
-<div class="well" markdown="1">
-# Contact
-
+<div class="panel panel-success" markdown="1">
+  <div class="panel-heading">
+    <h3 class="panel-title">Contact</h3>
+  </div>
+  <div class="panel-body">
 You can contact me at the following email address: emmanuelle (dot) saillard (at) inria (dot) fr
-
+  </div>
 </div>
 
-<h3>Emmanuelle Saillard - Copyright &copy; 2010 - all right reserved</h3>
+
