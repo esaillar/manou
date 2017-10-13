@@ -11,7 +11,6 @@ layout: page
 
 Welcome to my website!
 
-<div class="alert alert-warning" role="alert">----- Sorry website in process of construction -----</div>
 
 
 <div class="panel panel-success" markdown="1">
@@ -19,12 +18,13 @@ Welcome to my website!
     <h3 class="panel-title">About me</h3>
   </div>
   <div class="panel-body">
-Hi, my name is Emmanuelle and I am a Postdoc in the Inria Corse team. I joined the team in december 1st, 2016 after one-year Postdoc position in the University of California Berkeley.
-I have obtained a M.Sc in Computer Science in 2012 from the University of Versailles, and a PhD in Computer science from the University of Bordeaux in 2015.
+I am a tenured reserach scientist (CR) in the STORM team at Inria Bordeaux. 
 My main interests are code analysis for debugging and optimization of High-Performance Computing applications.
 
+I joined the STORM team in October 1st, 2017 after one-year Postdoc position at Inria Grenoble in the CORSE team. From October 2015 to October 2016, I was employed as a postdoctoral reseracher at the University of California Berkeley (UCB). I was supervised by Professor Koushik Sen (UCB) and Costin Iancu (Lawrence Berkeley National Lab). 
 
-You can download my <a href="{{site.baseurl}}/resources/cv_eng.pdf" target="_blank">CV</a> (french version available <a href="{{site.baseurl}}/resources/cv_french.pdf" target="_blank">here</a> ).
+
+You can download my <a href="{{site.baseurl}}/resources/cv_eng.pdf" target="_blank">CV</a>
   </div>
 </div>
 

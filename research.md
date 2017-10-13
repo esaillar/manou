@@ -20,24 +20,13 @@ I began my thesis by focusing on a two-step detection of MPI collective errors i
  I adapted quite naturally this method to detect misuse of barriers and worksharing constructs in OpenMP applications.
  These features were regrouped in **PARCOACH**, a GCC plugin. Approach that we successfully applied to multiple benchmarks and applications.
 
-Since December 2016, I am working on the European project HPC4E. My goal is to optimize kernels of some applications developed in the project with the metaprogramming language BOAST.
+During this time, I developed dynamic program analyses for communication and synchronization optimizations in large scientific codes.
+
+From December 2016 to September 2017, I worked on the European project HPC4E. My goal was to optimize kernels of some applications developed in the project with the metaprogramming language BOAST.
+
+In October 2017, I joined the STORM team at Inria Bordeaux as a tenured reserach scientist (CR). 
 
   </div>
 </div>
-
-
-
-<div class="panel panel-success" markdown="1">
-  <div class="panel-heading">
-    <h3 class="panel-title">Publications</h3>
-  </div>
-  <div class="panel-body">
-<div id="publications-hal">Loading publications from HAL...</div>
-<script src="{{site.baseurl}}/js/hal.js"></script>
-<script>load_from_hal("184161", "Emmanuelle Saillard" ,"{{site.baseurl}}");</script>
-  </div>
-</div>
-
-
 
 
