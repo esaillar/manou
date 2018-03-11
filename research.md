@@ -4,11 +4,11 @@ title: Research
 permalink: /research/
 ---
 
-<div class="panel panel-success" markdown="1">
+<div class="panel panel-info" markdown="1">
   <div class="panel-heading">
     <h3 class="panel-title">Research topics</h3>
   </div>
-  <div class="panel-body">
+  <div class="panel-body" markdown="1">
 I am interested in the development of tools that aim at **debugging** and **optimizing** HPC applications.
 
 I began my thesis by focusing on a two-step detection of MPI collective errors in MPI applications. The first step statically identifies the reduced set of collective communications that may eventually lead to potential deadlock situations,
@@ -30,3 +30,15 @@ In October 2017, I joined the STORM team at Inria Bordeaux as a tenured reserach
 </div>
 
 
+<div class="panel panel-info" markdown="1">
+  <div class="panel-heading">
+    <h3 class="panel-title">PARallel COntrol flow Anomaly CHecker (PARCOACH)</h3>
+  </div>
+  <div class="panel-body">
+
+PARCOACH aims at helping developers in their debugging phase of parallel and distributed applications.
+
+<a href="https://team.inria.fr/storm/software/parcoach/" target="_blank">Read more about PARCOACH</a>
+
+  </div>
+</div>
