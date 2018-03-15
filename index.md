@@ -28,7 +28,7 @@ I joined the STORM team in October 1st, 2017 after one-year Postdoc position at 
   </div>
   <div class="panel-body">
 <p  markdown="1">**Address**: Inria Bordeaux - Sud-Ouest, 200 avenue de la vieille tour, 33400 Talence cedex, France</p>
-<p><b>Office:</b> B </p>
+<p><b>Office:</b> B236 </p>
 <p><b>Work phone:</b> +33 5 24 57 41 24 </p>
 <p><b>Email:</b> emmanuelle (dot) saillard (at) inria (dot) fr </p>
   </div>
