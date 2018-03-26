@@ -12,8 +12,8 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
   </div>
   <div class="panel-body">
 <td markdown="1">
-- Oct. 2017-...: **Research scientist (CR)**, Inria Bordeaux, France
-- Dec.2016-Sept.2017: **Postdoctoral fellow**, Inria Grenoble, France
+- Oct. 2017-...: **Research scientist (CR)**, Inria Bordeaux (STORM team), France
+- Dec.2016-Sept.2017: **Postdoctoral fellow**, Inria Grenoble (CORSE team), France
 - Oct.2015-Oct.2016: **Postdoctoral fellow**, University of California Berkeley, USA
 </td>
   </div>

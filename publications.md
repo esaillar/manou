@@ -9,6 +9,11 @@ permalink: /publications/
 Emmanuelle Saillard and Koushik Sen and Wim Lavrijsen and Costin Iancu, "Maximizing Communication Overlap with Dynamic Program Analysis," in _Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region, HPC Asia 2018, Chiyoda, Tokyo, Japan, January 28-31, 2018, pages 1--11, 2018_.	**Best Paper Finalist.**
 </p>
 
+<b> [<a href="https://tools.zih.tu-dresden.de/2015/" target="_blank">9th Parallel Tools Workshop</a>] </b>
+<p markdown="1">
+Emmanuelle Saillard, Hugo Brunie, Patrick Carribault, Denis Barthou. PARCOACH Extension for Hybrid Applications with Interprocedural Analysis. _9th International Workshop on Parallel Tools for High Performance Computing_, Sep 2015, Dresden, Germany. pp.135 - 146, 2016. **Invited paper.**
+<b> [<a href="https://hal.inria.fr/hal-01420655" target="_blank">pdf </a>] </b>
+</p>
 
 <b> [<a href="http://europar2015.par.tuwien.ac.at" target="_blank">EuroPar'15 </a>] </b>
 <p markdown="1">
@@ -24,11 +29,6 @@ Emmanuelle Saillard, Patrick Carribault, Denis Barthou. Static/Dynamic Validatio
 </p>
 
 
-<b> [<a href="https://tools.zih.tu-dresden.de/2015/" target="_blank">9th Parallel Tools Workshop</a>] </b>
-<p markdown="1">
-Emmanuelle Saillard, Hugo Brunie, Patrick Carribault, Denis Barthou. PARCOACH Extension for Hybrid Applications with Interprocedural Analysis. _9th International Workshop on Parallel Tools for High Performance Computing_, Sep 2015, Dresden, Germany. pp.135 - 146, 2016. **Invited paper.**
-<b> [<a href="https://hal.inria.fr/hal-01420655" target="_blank">pdf </a>] </b>
-</p>
 
 <b> [<a href="https://eurompi2015.bordeaux.inria.fr" target="_blank">EuroMPI'15 </a>] </b>
 <p markdown="1">
