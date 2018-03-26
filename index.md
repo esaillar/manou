@@ -40,7 +40,7 @@ I joined the STORM team in October 1st, 2017 after one-year Postdoc position at 
     <h3 class="panel-title">Research Interests</h3>
   </div>
   <div class="panel-body">
-Code analysis, Debugging, Verification, Optimization, Programming Languages.
+Code analysis, Debugging, Verification, Static Analysis, Compilation, Optimization, Programming Languages.
   </div>
 </div>
 
