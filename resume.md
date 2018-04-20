@@ -21,6 +21,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
 
 <div class="panel-group" id="accordion" markdown="1">
  <div class="panel panel-info">
