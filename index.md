@@ -18,7 +18,7 @@ layout: page
     <h3 class="panel-title">Biography</h3>
   </div>
   <div class="panel-body">
-I joined the STORM team in October 1st, 2017 after one-year Postdoc position at Inria Grenoble in the CORSE team. From October 2015 to October 2016, I was employed as a postdoctoral reseracher at the University of California Berkeley (UCB). I was supervised by Professor Koushik Sen (UCB) and Costin Iancu (Lawrence Berkeley National Lab). 
+I joined the STORM team in October 1st, 2017 after one-year Postdoc position at Inria Grenoble in the CORSE team (France). From October 2015 to October 2016, I was employed as a postdoctoral reseracher at the University of California Berkeley (USA). I was supervised by Professor Koushik Sen (UCB) and Costin Iancu (Lawrence Berkeley National Lab). 
   </div>
 </div>
 

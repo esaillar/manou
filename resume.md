@@ -19,9 +19,13 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
   </div>
 </div>
 
-<div class="panel panel-info" markdown="1">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+<div class="panel-group" id="accordion" markdown="1">
+ <div class="panel panel-info">
   <div class="panel-heading">
-    <h3 class="panel-title"> <a data-toggle="collapse" href="#collapse1"> Student supervision </a></h3>
+    <h3 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse1"> Student supervision </a></h3>
   </div>
   <div id="collapse1" class="panel-collapse collapse">
   <div class="panel-body">
@@ -32,12 +36,15 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 </td>
   </div>
   </div>
+  </div>
 </div>
 
 
-<div class="panel panel-info" markdown="1">
+
+<div class="panel-group" id="accordion" markdown="1">
+ <div class="panel panel-info">
   <div class="panel-heading">
-    <h3 class="panel-title"> <a data-toggle="collapse" href="#collapse2"> Academic curriculum </a></h3>
+    <h3 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse2"> Academic curriculum </a></h3>
   </div>
   <div id="collapse2" class="panel-collapse collapse">
   <div class="panel-body">
@@ -48,6 +55,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 - 2008-2010: **Licence in Mathematics and Computer Science**, University of Paris 7, France 
 - 2006-2008: **"Classes préparatoires aux grandes écoles"** in Science, Lycée Saint Charles, Orléans, France
 </td>
+  </div>
   </div>
   </div>
 </div>
