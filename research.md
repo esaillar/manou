@@ -24,7 +24,7 @@ During this time, I developed dynamic program analyses for communication and syn
 
 From December 2016 to September 2017, I worked on the European project HPC4E. My goal was to optimize kernels of some applications developed in the project with the metaprogramming language BOAST.
 
-In October 2017, I joined the STORM team at Inria Bordeaux as a tenured reserach scientist (CR). 
+In October 2017, I joined the STORM team at Inria Bordeaux as a tenured research scientist (CR). 
 
   </div>
 </div>
@@ -48,7 +48,5 @@ PARCOACH aims at helping developers in their debugging phase of parallel and dis
     <h3 class="panel-title">Open Internship Positions (in french)</h3>
   </div>
   <div class="panel-body">
-<p  markdown="1"><a href="https://team.inria.fr/storm/sujet-de-stage-2018-utiliser-la-compilation-pour-aider-la-verification-formelle/" target="_blank"><font color="#d9534f">Utiliser la compilation pour aider la vérification formelle </font></a></p>
-<p  markdown="1"><a href="https://team.inria.fr/storm/sujet-de-stage-2018-optimisation-des-codes-mpi-a-laide-de-communications-asynchrones/" target="_blank"><font color="#d9534f">Optimisation des codes MPI à l’aide de communications asynchrones </font></a></p>
   </div>
 </div>
