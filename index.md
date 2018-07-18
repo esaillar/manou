@@ -5,7 +5,7 @@ layout: page
 <div class="page-header row">
 <div class="col-sm-2 prof-picture"><img src="{{site.baseurl}}/resources/moi.jpg" title="photo"/></div>
 <div class="col-sm-10"><h1>Emmanuelle Saillard</h1></div>
-<div class="col-sm-10"><h4>Tenured research scientist (CR)</h4></div>
+<div class="col-sm-10"><h4>Tenured research scientist (CRCN)</h4></div>
 <div class="col-sm-10"><h4> <a href="https://team.inria.fr/storm/" target="_blank">STORM</a> team, Inria Bordeaux - Sud-Ouest </h4></div>
 </div>
 

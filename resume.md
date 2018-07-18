@@ -12,7 +12,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
   </div>
   <div class="panel-body">
 <td markdown="1">
-- Oct. 2017-...: **Research scientist (CR)**, Inria Bordeaux (STORM team), France
+- Oct. 2017-...: **Research scientist (CRCN)**, Inria Bordeaux (STORM team), France
 - Dec.2016-Sept.2017: **Postdoctoral fellow**, Inria Grenoble (CORSE team), France
 - Oct.2015-Oct.2016: **Postdoctoral fellow**, University of California Berkeley, USA
 </td>
@@ -31,9 +31,15 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
   <div id="collapse1" class="panel-collapse collapse">
   <div class="panel-body">
 <td markdown="1">
-- Ahmed Amine Nassik (Undergrad, 3 months internship) <br/> co-supervised with Jean-François Méhaut (Inria Grenoble, France)
-- Hugo Brunie (Undergrad, 6 months internship) <br/> co-supervised with Patrick Carribault (CEA, France) and Denis Barthou (Inria)
-- Arthur Loubert (Undergrad, 2 months internship) <br/> co-supervised with Patrick Carribault (CEA, France)
+- Internship
+	- Antoine Tirel (Undergrad at Enseirb-Matmeca, 3 months internship in 2018)
+<br/> "Utilisation de la compilation pour aider la vérification formelle"
+	- Ahmed Amine Nassik (Undergrad at Polytech Grenoble, 3 months internship in 2017), co-supervision with Jean-François Méhaut (Inria Grenoble, France)
+<br/> "Optimisation d'un noyau de calcul à l'aide de BOAST"
+	- Hugo Brunie (Undergrad at Enseirb-Matmeca, 6 months internship, 2015), co-supervision with Patrick Carribault (CEA, France) and Denis Barthou (Inria)
+<br/> "Validation des applications parallèles multi-modèles sur supercalculateur - Extension de PARCOACH"
+	- Arthur Loussert (Undergrad at University of Versailles, 2 months internship, 2014), co-supervision with Patrick Carribault (CEA, France)
+<br/> "Evaluation d'une méthode d'analyse dynamique pour la validation des applications en environnement massivement parallèle"
 </td>
   </div>
   </div>
