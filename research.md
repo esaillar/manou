@@ -19,12 +19,25 @@ I began my thesis by focusing on a two-step detection of MPI collective errors i
  MPI calls location. The extension I proposed detect misuse of MPI collective operations inside and outside threaded regions.
  I adapted quite naturally this method to detect misuse of barriers and worksharing constructs in OpenMP applications.
  These features were regrouped in **PARCOACH**, a GCC plugin. Approach that we successfully applied to multiple benchmarks and applications.
+Since then, PARCOACH has been re-implemented as a **LLVM pass** and is still under development.
 
-During this time, I developed dynamic program analyses for communication and synchronization optimizations in large scientific codes.
+From October 2015 to October 2016, I was employed as a postdoctoral researcher at the University of California Berkeley (USA). During this time, I developed dynamic program analyses for communication and synchronization optimizations in large scientific codes.
 
 From December 2016 to September 2017, I worked on the European project HPC4E. My goal was to optimize kernels of some applications developed in the project with the metaprogramming language BOAST.
 
-In October 2017, I joined the STORM team at Inria Bordeaux as a tenured research scientist (CR). 
+In October 2017, I joined the STORM team at Inria Bordeaux as a tenured research scientist (CRCN). 
+
+  </div>
+</div>
+
+
+<div class="panel panel-info" markdown="1">
+  <div class="panel-heading">
+    <h3 class="panel-title">Projects</h3>
+  </div>
+  <div class="panel-body">
+
+I am a member of the <a href="http://hacspecis.gforge.inria.fr" target="_blank">HAC SPECIS</a> project funded by Inria. 
 
   </div>
 </div>
@@ -45,8 +58,32 @@ PARCOACH aims at helping developers in their debugging phase of parallel and dis
 
 <div class="panel panel-danger" markdown="1">
   <div class="panel-heading">
-    <h3 class="panel-title">Open Internship Positions (in french)</h3>
+    <h3 class="panel-title">Open Internship Positions</h3>
   </div>
   <div class="panel-body">
   </div>
 </div>
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+
+
+<div class="panel-group" id="accordion" markdown="1">
+ <div class="panel panel-info">
+  <div class="panel-heading">
+    <h3 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse2"> Talks</a></h3>
+  </div>
+  <div id="collapse2" class="panel-collapse collapse">
+  <div class="panel-body">
+<td markdown="1">
+- <a href="http://gpl2018.imag.fr/index.html" target="_blank">Journées nationales du GDR GPL, Grenoble 12-15 juin 2018</a></p>
+   Vérification des applications MPI par une anayse statique/dynamique  -  Verification of MPI applications using a static/dynamic analysis
+
+</td>
+  </div>
+  </div>
+  </div>
+</div>
+
+

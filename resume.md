@@ -20,17 +20,15 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 </div>
 
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
 
-<div class="panel-group" id="accordion" markdown="1">
- <div class="panel panel-info">
+ <div class="panel panel-info" markdown="1">
   <div class="panel-heading">
-    <h3 class="panel-title"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse1"> Student supervision </a></h3>
+    <h3 class="panel-title"> Student supervision </h3>
   </div>
-  <div id="collapse1" class="panel-collapse collapse">
   <div class="panel-body">
 <td markdown="1">
+- PhD
+- Postdoc
 - Internship
 	- Antoine Tirel (Undergrad at Enseirb-Matmeca, 3 months internship in 2018)
 <br/> "Utilisation de la compilation pour aider la vérification formelle"
@@ -42,11 +40,11 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 <br/> "Evaluation d'une méthode d'analyse dynamique pour la validation des applications en environnement massivement parallèle"
 </td>
   </div>
-  </div>
-  </div>
 </div>
 
 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
 
 <div class="panel-group" id="accordion" markdown="1">
  <div class="panel panel-info">

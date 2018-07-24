@@ -4,6 +4,14 @@ title: Teaching
 permalink: /teaching/
 ---
 
+<h5>Fall 2018</h5>
+<td markdown="1">
+* Tree Structures (Teacher)
+	* Enseirb-Matmeca, 1st year
+* Algorithm (Teacher)
+	* Enseirb-Matmeca, 1st year
+</td>
+
 <h5>Fall 2017</h5>
 <td markdown="1">
 * Tree Structures (Teaching assistant)
