@@ -4,9 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
+<b> [<a href="https://correctness-workshop.github.io/2018/#submissions" target="_blank">Correctness 2018 </a>] </b>
+<p markdown="1">
+Pierre Huchant, Emmanuelle Saillard, Denis Barthou, Hugo Brunie and Patrick Carribault, "PARCOACH Extension for a Full-Interprocedural Collectives Verification" in _Second International Workshop on Software Correctness for HPC Applications_, Dallas, Texas, USA, November 12, 2018.
+</p>
+
 <b> [<a href="http://sighpc.ipsj.or.jp/HPCAsia2018/" target="_blank">HPCAsia'18 </a>] </b>
 <p markdown="1">
-Emmanuelle Saillard and Koushik Sen and Wim Lavrijsen and Costin Iancu, "Maximizing Communication Overlap with Dynamic Program Analysis," in _Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region, HPC Asia 2018, Chiyoda, Tokyo, Japan, January 28-31, 2018, pages 1--11, 2018_.	**Best Paper Finalist.**
+Emmanuelle Saillard and Koushik Sen and Wim Lavrijsen and Costin Iancu, "Maximizing Communication Overlap with Dynamic Program Analysis", in _Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region, HPC Asia 2018, Chiyoda, Tokyo, Japan, January 28-31, 2018, pages 1--11, 2018_.	**Best Paper Finalist.**
 </p>
 
 <b> [<a href="https://tools.zih.tu-dresden.de/2015/" target="_blank">9th Parallel Tools Workshop</a>] </b>
