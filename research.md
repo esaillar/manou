@@ -61,6 +61,7 @@ PARCOACH aims at helping developers in their debugging phase of parallel and dis
     <h3 class="panel-title">Open Internship Positions</h3>
   </div>
   <div class="panel-body">
+<a href="{{site.baseurl}}/resources/M2_Intru.pdf" target="_blank">Static Selective Instrumentation for Parallel Programs Verification</a> 
   </div>
 </div>
 
@@ -77,7 +78,7 @@ PARCOACH aims at helping developers in their debugging phase of parallel and dis
   <div id="collapse2" class="panel-collapse collapse">
   <div class="panel-body">
 <td markdown="1">
-- <a href="http://gpl2018.imag.fr/index.html" target="_blank">Journées nationales du GDR GPL, Grenoble 12-15 juin 2018</a></p>
+- <a href="http://gpl2018.imag.fr/index.html" target="_blank">Journées nationales du GDR GPL, Grenoble 12-15 juin 2018</a>
    Vérification des applications MPI par une anayse statique/dynamique  -  Verification of MPI applications using a static/dynamic analysis
 
 </td>
