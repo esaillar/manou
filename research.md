@@ -36,9 +36,10 @@ In October 2017, I joined the STORM team at Inria Bordeaux as a tenured research
     <h3 class="panel-title">Projects</h3>
   </div>
   <div class="panel-body">
-
-I am a member of the <a href="http://hacspecis.gforge.inria.fr" target="_blank">HAC SPECIS</a> project funded by Inria. 
-
+<td markdown="1">
+- <p> I am a member of the <a href="http://hacspecis.gforge.inria.fr" target="_blank">HAC SPECIS</a> project funded by Inria. </p>
+- <p> ANR Exacard </p> 
+</td>
   </div>
 </div>
 
@@ -61,7 +62,7 @@ PARCOACH aims at helping developers in their debugging phase of parallel and dis
     <h3 class="panel-title">Open Internship Positions</h3>
   </div>
   <div class="panel-body">
-<a href="{{site.baseurl}}/resources/M2_Intru.pdf" target="_blank">Static Selective Instrumentation for Parallel Programs Verification</a> 
+<a href="{{site.baseurl}}/resources/M2_Intru.pdf" target="_blank">Static Selective Instrumentation for Parallel Programs Verification (M2)</a> 
   </div>
 </div>
 
@@ -78,8 +79,10 @@ PARCOACH aims at helping developers in their debugging phase of parallel and dis
   <div id="collapse2" class="panel-collapse collapse">
   <div class="panel-body">
 <td markdown="1">
-- <a href="http://gpl2018.imag.fr/index.html" target="_blank">Journées nationales du GDR GPL, Grenoble 12-15 juin 2018</a>
-   Vérification des applications MPI par une anayse statique/dynamique  -  Verification of MPI applications using a static/dynamic analysis
+- <a href="http://gpl2018.imag.fr/index.html" target="_blank">Journées nationales du GDR GPL, Grenoble June 12-15, 2018</a>
+   Vérification des applications MPI par une anayse statique/dynamique  -  Verification of MPI applications using a static/dynamic analysis (Talk in french)
+- <a href="http://tesson.julien.free.fr/LaMHA/2018/" target="_blank">Journée LaHMA, Paris December 13, 2018</a>
+   Analyse statique/dynamique pour la vérification des applications parallèles  -  Static/Dynamic Analysis for the verification of parallel applications (Talk in french)
 
 </td>
   </div>

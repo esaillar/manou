@@ -23,13 +23,15 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 
  <div class="panel panel-info" markdown="1">
   <div class="panel-heading">
-    <h3 class="panel-title"> Student supervision </h3>
+    <h3 class="panel-title"> Supervision </h3>
   </div>
   <div class="panel-body">
 <td markdown="1">
-- PhD
-- Postdoc
-- Internship
+- **PhD**
+	- [2019-2022] Célia Tassadit AITKACI
+- **Postdoc**
+  - [April 2019 - August 2020] Pierre Huchant, co-supervision with Costin Iancu (LBNL)
+- **Internship**
 	- Antoine Tirel (Undergrad at Enseirb-Matmeca, 3 months internship in 2018)
 <br/> "Utilisation de la compilation pour aider la vérification formelle"
 	- Ahmed Amine Nassik (Undergrad at Polytech Grenoble, 3 months internship in 2017), co-supervision with Jean-François Méhaut (Inria Grenoble, France)
