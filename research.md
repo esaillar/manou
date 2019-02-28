@@ -37,8 +37,9 @@ In October 2017, I joined the STORM team at Inria Bordeaux as a tenured research
   </div>
   <div class="panel-body">
 <td markdown="1">
-- <p> I am a member of the <a href="http://hacspecis.gforge.inria.fr" target="_blank">HAC SPECIS</a> project funded by Inria. </p>
+- <p> <a href="http://hacspecis.gforge.inria.fr" target="_blank">HAC SPECIS</a>, project funded by Inria. </p>
 - <p> ANR Exacard </p> 
+- <p> <a href="https://team.inria.fr/cohpc/" target="_blank">COHPC</a>, Inria associate team (I am the PI)</p> 
 </td>
   </div>
 </div>
