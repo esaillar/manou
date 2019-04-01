@@ -30,7 +30,7 @@ Emmanuelle Saillard, Hugo Brunie, Patrick Carribault, Denis Barthou. PARCOACH Ex
 ## 2015
 
 <b> [<a href="https://hal.inria.fr/tel-01228072" target="_blank">PhD Thesis </a>] </b>
-<p>Static/Dynamic Analyses for Validation and Improvements of Multi-Model HPC Applications. **2015**
+<p>Static/Dynamic Analyses for Validation and Improvements of Multi-Model HPC Applications. 
 </p>
 
 

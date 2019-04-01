@@ -18,7 +18,12 @@ layout: page
     <h3 class="panel-title">Biography</h3>
   </div>
   <div class="panel-body">
-I joined the STORM team in October 1st, 2017 after one-year Postdoc position at Inria Grenoble in the CORSE team (France). From October 2015 to October 2016, I was employed as a postdoctoral researcher at the University of California Berkeley (USA). I was supervised by Professor Koushik Sen (UCB) and Costin Iancu (Lawrence Berkeley National Lab). 
+I have obtained a M.Sc. in Computer Science in 2012 from the University of Versailles and a PhD in Computer science in 2015 from the University of Bordeaux.
+From October 2015 to October 2016, I was employed as a postdoctoral researcher at the University of California Berkeley (USA). During this time, I developed dynamic program analyses for communication and synchronization optimizations in large scientific codes.  I was supervised by Professor Koushik Sen (UCB) and Costin Iancu (Lawrence Berkeley National Lab).
+From December 2016 to September 2017, I worked on the European project HPC4E. My goal was to optimize kernels of some applications developed in the project with the metaprogramming language BOAST. I was supervised by Jean-François Mehaut and Brice Videau. 
+
+In October 2017, I joined the STORM team at Inria Bordeaux as a tenured research scientist (CRCN).
+
   </div>
 </div>
 
@@ -28,7 +33,7 @@ I joined the STORM team in October 1st, 2017 after one-year Postdoc position at 
   </div>
   <div class="panel-body">
 <p  markdown="1">**Address**: Inria Bordeaux - Sud-Ouest, 200 avenue de la vieille tour, 33400 Talence cedex, France</p>
-<p><b>Office:</b> 2nd floor </p>
+<p><b>Office:</b> B215, 2nd floor </p>
 <p><b>Work phone:</b> +33 5 24 57 41 24 </p>
 <p><b>Email:</b> emmanuelle (dot) saillard (at) inria (dot) fr </p>
   </div>
