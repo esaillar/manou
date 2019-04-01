@@ -11,7 +11,7 @@ permalink: /research/
   <div class="panel-body" markdown="1">
 I am interested in developing tools and methods that aim at **debugging** and **optimizing** HPC applications.
 
-I have developed **PARCOACH**,a static/dynamic tool to detect collective errors in parallel applications. The static part identifies the reduced set of collective communications that may eventually lead to potential deadlock situations,
+I have developed **PARCOACH**, a static/dynamic tool to detect collective errors in parallel applications. The static part identifies the reduced set of collective communications that may eventually lead to potential deadlock situations,
  and issues warnings. Using this analysis, a selective instrumentation of the code is then achieved, displaying an error, synchronously
  interrupting all processes, if the schedule leads to a deadlock situation. 
 
@@ -39,12 +39,12 @@ PARCOACH is implemented as a **LLVM pass** and is still under development.
     <h3 class="panel-title">Software</h3>
   </div>
   <div class="panel-body">
-
-- <p> PARallel COntrol flow Anomaly CHecker (PARCOACH) </p>
-PARCOACH aims at helping developers in their debugging phase of parallel and distributed applications. The tool is still under development.
+<td markdown="1">
+*PARallel COntrol flow Anomaly CHecker (PARCOACH)*
+PARCOACH aims at helping developers in their debugging phase of parallel and distributed applications.
 
 <a href="https://team.inria.fr/storm/software/parcoach/" target="_blank">Read more about PARCOACH</a>
-
+</td>
   </div>
 </div>
 

@@ -56,7 +56,7 @@ Julien Jaeger, Emmanuelle Saillard, Patrick Carribault, Denis Barthou. Correctne
 </p>
 
 
-#### 2014
+### 2014
 
 <b> [<a href="http://www.openmp.org/uncategorized/iwomp-2014-call-for-papers/" target="_blank">IWOMP'14 </a>] </b>
 <b> [<a href="https://hal.inria.fr/hal-01078759" target="_blank">pdf </a>] </b>
@@ -71,7 +71,7 @@ Emmanuelle Saillard, Patrick Carribault, Denis Barthou. Static Validation of Bar
 Emmanuelle Saillard, Patrick Carribault, Denis Barthou. PARCOACH: Combining static and dynamic validation of MPI collective communications. _International Journal of High Performance Computing Applications_, SAGE Publications, 2014. 
 </p>
 
-#### 2013
+### 2013
 
 <b> [<a href="https://www.arcos.inf.uc3m.es/old/eurompi2013/Home.shtml" target="_blank">EuroMPI'13 </a>] </b>
 <b> [<a href="https://hal.inria.fr/hal-00920901" target="_blank">pdf </a>] </b>
