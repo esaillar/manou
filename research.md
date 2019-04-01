@@ -39,12 +39,10 @@ PARCOACH is implemented as a **LLVM pass** and is still under development.
     <h3 class="panel-title">Software</h3>
   </div>
   <div class="panel-body">
-<td markdown="1">
 *PARallel COntrol flow Anomaly CHecker (PARCOACH)*
 PARCOACH aims at helping developers in their debugging phase of parallel and distributed applications.
 
 <a href="https://team.inria.fr/storm/software/parcoach/" target="_blank">Read more about PARCOACH</a>
-</td>
   </div>
 </div>
 
