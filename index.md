@@ -18,14 +18,26 @@ layout: page
     <h3 class="panel-title">Biography</h3>
   </div>
   <div class="panel-body">
-I have obtained a M.Sc. in Computer Science in 2012 from the University of Versailles and a PhD in Computer science in 2015 from the University of Bordeaux.
-From October 2015 to October 2016, I was employed as a postdoctoral researcher at the University of California Berkeley (USA). During this time, I developed dynamic program analyses for communication and synchronization optimizations in large scientific codes.  I was supervised by Professor Koushik Sen (UCB) and Costin Iancu (Lawrence Berkeley National Lab).
-From December 2016 to September 2017, I worked on the European project HPC4E. My goal was to optimize kernels of some applications developed in the project with the metaprogramming language BOAST. I was supervised by Jean-François Mehaut and Brice Videau. 
+Emmanuelle Saillard is a tenured research scientist (CRCN) at Inria Bordeaux. She received her PhD in Computer science from the University of Bordeaux in 2015.
+From October 2015 to October 2016, she was employed as a postdoctoral researcher at the University of California Berkeley (USA). During this time, she developed dynamic program analyses for communication and synchronization optimizations in large scientific codes. She  was supervised by Professor Koushik Sen (UCB) and Costin Iancu (Lawrence Berkeley National Lab).
+From December 2016 to September 2017, she worked on the European project HPC4E. Her goal was to optimize kernels of some applications developed in the project with the metaprogramming language BOAST. She was supervised by Jean-François Mehaut and Brice Videau. 
+In October 2017, she joined the STORM team at Inria Bordeaux as a tenured research scientist (CRCN).
 
-In October 2017, I joined the STORM team at Inria Bordeaux as a tenured research scientist (CRCN).
-
+Her research interests are optimization and verification of HPC applications. 
   </div>
 </div>
+
+
+
+<div class="panel panel-info" markdown="1">
+  <div class="panel-heading">
+    <h3 class="panel-title">Research Interests</h3>
+  </div>
+  <div class="panel-body">
+Code analysis, Debugging, Verification, Static Analysis, Compilation, Optimization, Programming Languages.
+  </div>
+</div>
+
 
 <div class="panel panel-info" markdown="1">
   <div class="panel-heading">
@@ -40,14 +52,6 @@ In October 2017, I joined the STORM team at Inria Bordeaux as a tenured research
 </div>
 
 
-<div class="panel panel-info" markdown="1">
-  <div class="panel-heading">
-    <h3 class="panel-title">Research Interests</h3>
-  </div>
-  <div class="panel-body">
-Code analysis, Debugging, Verification, Static Analysis, Compilation, Optimization, Programming Languages.
-  </div>
-</div>
 
 
 
