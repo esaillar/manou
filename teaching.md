@@ -4,9 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
-=== Teaching ===
 
-### Teaching 
+## Teaching 
 
 
 <h5>Fall 2018</h5>
