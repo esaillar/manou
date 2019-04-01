@@ -4,6 +4,11 @@ title: Teaching
 permalink: /teaching/
 ---
 
+=== Teaching ===
+
+### Teaching 
+
+
 <h5>Fall 2018</h5>
 <td markdown="1">
 * Tree Structures (Teacher)
@@ -14,7 +19,7 @@ permalink: /teaching/
 
 <h5>Fall 2017</h5>
 <td markdown="1">
-* Tree Structures (Teaching assistant)
+* Tree Structures (Teacher assistant)
 	* <b>Teacher:</b> Denis Lapoire (Bordeaux INP)
 	* Enseirb-Matmeca, 1st year
 </td>
