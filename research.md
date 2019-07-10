@@ -26,7 +26,7 @@ PARCOACH is implemented as a **LLVM pass** and is still under development.
   </div>
   <div class="panel-body">
 <td markdown="1">
-- <p> <a href="http://hacspecis.gforge.inria.fr" target="_blank">HAC SPECIS</a>, project funded by Inria. </p>
+- <p> <a href="http://hacspecis.gforge.inria.fr" target="_blank">HAC SPECIS</a>, Inria project lab on High-performance Application and Computers: Studying PErformance and Correctness In Simulation (2016 - 2020).</p>
 - <p> ANR Exacard </p> 
 - <p> COHPC, Inria associate team. <a href="https://team.inria.fr/cohpc/" target="_blank">Visit the website</a></p> 
 </td>

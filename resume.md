@@ -28,15 +28,17 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
   <div class="panel-body">
 <td markdown="1">
 - **PhD**
-	- [2019-2022] Célia Tassadit AITKACI
+	- [2019-2022] Célia Tassadit AITKACI, co-supervision with Denis Barthou (Bordeaux INP) and Marc Sergent (ATOS) 
 - **Postdoc**
   - [April 2019 - August 2020] Pierre Huchant, co-supervision with Costin Iancu (LBNL)
 - **Internship**
+  - Firmin Martin (Undergrad at ENS Lyon, 6 weeks internship in 2019)
+<br/> "Analyse statique pour aider la détection d’états équivalents dans SimGrid"
 	- Antoine Tirel (Undergrad at Enseirb-Matmeca, 3 months internship in 2018)
 <br/> "Utilisation de la compilation pour aider la vérification formelle"
-	- Ahmed Amine Nassik (Undergrad at Polytech Grenoble, 3 months internship in 2017), co-supervision with Jean-François Méhaut (Inria Grenoble, France)
+	- Ahmed Amine Nassik (Undergrad at Polytech Grenoble, 3 months internship in 2017), co-supervision with Jean-François Méhaut (University of Grenoble, France)
 <br/> "Optimisation d'un noyau de calcul à l'aide de BOAST"
-	- Hugo Brunie (Undergrad at Enseirb-Matmeca, 6 months internship, 2015), co-supervision with Patrick Carribault (CEA, France) and Denis Barthou (Inria)
+	- Hugo Brunie (Undergrad at Enseirb-Matmeca, 6 months internship, 2015), co-supervision with Patrick Carribault (CEA, France) and Denis Barthou (Bordeaux INP)
 <br/> "Validation des applications parallèles multi-modèles sur supercalculateur - Extension de PARCOACH"
 	- Arthur Loussert (Undergrad at University of Versailles, 2 months internship, 2014), co-supervision with Patrick Carribault (CEA, France)
 <br/> "Evaluation d'une méthode d'analyse dynamique pour la validation des applications en environnement massivement parallèle"

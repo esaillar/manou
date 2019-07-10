@@ -4,6 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
+### 2019
+
+<b> [<a href="https://2019.euro-par.org" target="_blank">EuroPar 2019 </a>] </b>
+<p markdown="1">
+Pierre Huchant, Emmanuelle Saillard, Denis Barthou and Patrick Carribault, "Multi-Valued Expression Analysis for Collective Checking" in _EuroPar_, TO APPEAR.
+</p>
 
 ### 2018
 

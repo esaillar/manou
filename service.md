@@ -6,10 +6,11 @@ permalink: /service/
 
 <div class="panel panel-info" markdown="1">
   <div class="panel-heading">
-    <h3 class="panel-title">Program Commitees</h3>
+    <h3 class="panel-title">Program Committee Member</h3>
   </div>
   <div class="panel-body">
 <td markdown="1">
+- <a href="https://correctness-workshop.github.io/2019/" target="_blank"> Correctness 2019 </a> (Program Commitee)
 - <a href="https://www.ppam.pl" target="_blank"> PPAM 2019 </a> (Program Commitee)
 - <a href="http://hpcs2019.cisedu.info/2-conference/symposia/symp05-4pad" target="_blank"> 4PAD 2019 </a> (Program Commitee)
 - <a href="https://2019.compas-conference.fr" target="_blank"> Compas'19 </a> (Program Commitee)
