@@ -8,6 +8,11 @@ permalink: /teaching/
 ## Teaching 
 
 
+<h5>Spring 2019</h5>
+<td markdown="1">
+* MIMM (<a href="https://math-interactions.u-bordeaux.fr/Espace-projets/Moi-Informaticienne-Moi-Mathematicienne" target="_blank">Moi Informaticienne - Moi Mathématicienne)</a>
+	* University of Bordeaux, workshop for girls in high school  
+
 <h5>Fall 2018</h5>
 <td markdown="1">
 * Tree Structures (Teacher)

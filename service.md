@@ -21,3 +21,14 @@ permalink: /service/
 </td>
   </div>
 </div>
+
+<div class="panel panel-info" markdown="1">
+  <div class="panel-heading">
+    <h3 class="panel-title">Other</h3>
+  </div>
+  <div class="panel-body">
+<td markdown="1">
+- AGOS (Association de Gestion des Œuvres Sociales) treasurer since 2018 at Inria Bordeaux research center 
+</td>
+  </div>
+</div>
