@@ -33,6 +33,8 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
   - [April 2019 - August 2020] Pierre Huchant, co-supervision with Costin Iancu (LBNL) 
 <br/> DPEI Inria@SiliconValley funding
 - **Internship**
+	- Louise Mercier (High school student, 2 weeks in 2019)
+<br/> Stage de découverte 
   - Firmin Martin (Undergrad at ENS Lyon, 6 weeks internship in 2019)
 <br/> "Analyse statique pour aider la détection d’états équivalents dans SimGrid"
 	- Antoine Tirel (Undergrad at Enseirb-Matmeca, 3 months internship in 2018)
