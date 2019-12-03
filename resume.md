@@ -43,7 +43,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 - **Internship**
 	- Louise MERCIER (High school student, 2 weeks in 2019)
 <br/> Stage de découverte 
-  - Firmin MARTIN (Undergrad at ENS Lyon, 6 weeks internship in 2019)
+	- Firmin MARTIN (Undergrad at ENS Lyon, 6 weeks internship in 2019)
 <br/> *Analyse statique pour aider la détection d’états équivalents dans SimGrid*
 	- Antoine TIREL (Undergrad at Enseirb-Matmeca, 3 months internship in 2018)
 <br/> *Utilisation de la compilation pour aider la vérification formelle*
