@@ -7,8 +7,9 @@ permalink: /publications/
 ### 2019
 
 <b> [<a href="https://2019.euro-par.org" target="_blank">EuroPar 2019 </a>] </b>
+<b> [<a href="https://hal.archives-ouvertes.fr/hal-02390025/document" target="_blank">pdf </a>] </b>
 <p markdown="1">
-Pierre Huchant, Emmanuelle Saillard, Denis Barthou and Patrick Carribault, "Multi-Valued Expression Analysis for Collective Checking" in _EuroPar_, TO APPEAR.
+Pierre Huchant, Emmanuelle Saillard, Denis Barthou and Patrick Carribault, "Multi-Valued Expression Analysis for Collective Checking" in _EuroPar_, Aug 2019, Göttingen, Germany, pp. 29--43, 2019.
 </p>
 
 ### 2018
