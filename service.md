@@ -6,10 +6,25 @@ permalink: /service/
 
 <div class="panel panel-info" markdown="1">
   <div class="panel-heading">
-    <h3 class="panel-title">Program Committee Member</h3>
+    <h3 class="panel-title">Organizational</h3>
   </div>
   <div class="panel-body">
 <td markdown="1">
+- <a href="https://c3po-workshop.github.io/index" target="_blank"> C3PO 2020</a> Workshop associate chair
+- <a href="http://compilfr.ens-lyon.fr/quatorzieme-rencontre-compilation/" target="_blank"> French compilation days</a> Chair
+</td>
+  </div>
+</div>
+
+
+
+<div class="panel panel-info" markdown="1">
+  <div class="panel-heading">
+    <h3 class="panel-title">Program Committee</h3>
+  </div>
+  <div class="panel-body">
+<td markdown="1">
+- <a href="https://sc20.supercomputing.org" target="_blank"> SC 2020 </a> (Program Commitee, Performance)
 - <a href="https://correctness-workshop.github.io/2019/" target="_blank"> Correctness 2019 </a> (Program Commitee)
 - <a href="https://www.ppam.pl" target="_blank"> PPAM 2019 </a> (Program Commitee)
 - <a href="http://hpcs2019.cisedu.info/2-conference/symposia/symp05-4pad" target="_blank"> 4PAD 2019 </a> (Program Commitee)

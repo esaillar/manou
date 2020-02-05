@@ -58,6 +58,50 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 </div>
 
 
+<div class="panel panel-info" markdown="1">
+   <div class="panel-heading">
+     <h3 class="panel-title">Organizational</h3>
+   </div>
+   <div class="panel-body">
+ <td markdown="1">
+ - <a href="https://c3po-workshop.github.io/index" target="_blank"> C3PO 2020</a> Workshop associate chair
+ - <a href="http://compilfr.ens-lyon.fr/quatorzieme-rencontre-compilation/" target="_blank"> French compilation days</a> Chair
+ </td>
+   </div>
+ </div>
+ 
+ 
+ 
+ <div class="panel panel-info" markdown="1">
+   <div class="panel-heading">
+     <h3 class="panel-title">Program Committee</h3>
+   </div>
+   <div class="panel-body">
+ <td markdown="1">
+ - <a href="https://sc20.supercomputing.org" target="_blank"> SC 2020 </a> (Program Commitee, Performance)
+ - <a href="https://correctness-workshop.github.io/2019/" target="_blank"> Correctness 2019 </a> (Program Commitee)
+ - <a href="https://www.ppam.pl" target="_blank"> PPAM 2019 </a> (Program Commitee)
+ - <a href="http://hpcs2019.cisedu.info/2-conference/symposia/symp05-4pad" target="_blank"> 4PAD 2019 </a> (Program Commitee)
+ - <a href="https://2019.compas-conference.fr" target="_blank"> Compas'19 </a> (Program Commitee)
+ - <a href="https://omasew.github.io" target="_blank"> OMASE'19 </a> (Program Commitee)
+ - <a href="https://sc18.supercomputing.org" target="_blank"> SC'18 </a> (Workshop Commitee)
+ - <a href="http://2018.compas-conference.fr/#" target="_blank"> Compas'18 </a> (Program Commitee, track parallelism)
+ - <a href="https://www.isc-hpc.com" target="_blank"> ISC'18 </a> (Poster Commitee)
+ </td>
+   </div>
+ </div>
+ 
+ <div class="panel panel-info" markdown="1">
+   <div class="panel-heading">
+     <h3 class="panel-title">Other</h3>
+   </div>
+   <div class="panel-body">
+ <td markdown="1">
+ - Since 2018, I am the treasurer of AGOS (Association de Gestion des Œuvres Sociales) at Inria Bordeaux research center
+ </td>
+   </div>
+ </div>
+
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
 
