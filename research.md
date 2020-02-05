@@ -76,6 +76,6 @@ PARallel COntrol flow Anomaly CHecker (PARCOACH) aims at helping developers in t
     <h3 class="panel-title">Open Internship Positions</h3>
   </div>
   <div class="panel-body">
-<a href="{{site.baseurl}}/resources/M2_Intru.pdf" target="_blank">Static Selective Instrumentation for Parallel Programs Verification (M2)</a> 
+	no position available
   </div>
 </div>

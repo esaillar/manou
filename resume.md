@@ -29,8 +29,8 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 <td markdown="1">
 **Current students**
 - **PhD**
-	- [2019-2022] Célia Tassadit AITKACI, co-supervision with Denis Barthou (Bordeaux INP) and Marc Sergent (ATOS)
-	- [2019-2022] Van Man NGUYEN, co-supervision with Denis Barthou (Bordeaux INP), Patrick Carribault (CEA), and Julien Jaeger (CEA)
+	- [2019-] Célia Tassadit AITKACI, co-supervision with Denis Barthou (Bordeaux INP) and Marc Sergent (ATOS)
+	- [2019-] Van Man NGUYEN, co-supervision with Denis Barthou (Bordeaux INP), Patrick Carribault (CEA), and Julien Jaeger (CEA)
 - **Postdoc**
   - [April 2019 - August 2020] Pierre HUCHANT, co-supervision with Costin Iancu (LBNL) 
 <br/> DPEI Inria@SiliconValley funding
@@ -64,8 +64,8 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - <a href="https://c3po-workshop.github.io/index" target="_blank"> C3PO 2020</a> Workshop associate chair
- - <a href="http://compilfr.ens-lyon.fr/quatorzieme-rencontre-compilation/" target="_blank"> French compilation days</a> Chair
+ - <a href="https://c3po-workshop.github.io/index" target="_blank"> C3PO 2020</a> - Workshop associate chair
+ - <a href="http://compilfr.ens-lyon.fr/quatorzieme-rencontre-compilation/" target="_blank"> French compilation days</a> - Chair
  </td>
    </div>
  </div>
