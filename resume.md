@@ -35,12 +35,14 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
   - [April 2019 - August 2020] Pierre HUCHANT, co-supervision with Costin Iancu (LBNL) 
 <br/> DPEI Inria@SiliconValley funding
 - **Internship**
-	- Radjasouria VINAYAGAME (Undergrad at Enseirb-Matmeca, 2 months in 2019-2020)
-<br/> *Intégration continue et amélioration de la sortie de PARCOACH*
+	- Vincent Bridonneau (Undergrad at Enseirb-Matmec)
+<br/> *Static Selective Instrumentation for Parallel Programs Verification*
 
 **Former students**
 
 - **Internship**
+	- Radjasouria VINAYAGAME (Undergrad at Enseirb-Matmeca, 2 months in 2019-2020)
+<br/> *Intégration continue et amélioration de la sortie de PARCOACH*
 	- Louise MERCIER (High school student, 2 weeks in 2019)
 <br/> Stage de découverte 
 	- Firmin MARTIN (Undergrad at ENS Lyon, 6 weeks internship in 2019)
