@@ -67,7 +67,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    <div class="panel-body">
  <td markdown="1">
  - <a href="https://c3po-workshop.github.io/index" target="_blank"> C3PO 2020</a> - Workshop associate chair
- - <a href="http://compilfr.ens-lyon.fr/quatorzieme-rencontre-compilation/" target="_blank"> French compilation days</a> - Chair
+ - <a href="http://compilfr.ens-lyon.fr/quatorzieme-rencontre-compilation/" target="_blank"> French compilation days 2021 </a> - Chair
  </td>
    </div>
  </div>

@@ -7,7 +7,7 @@ permalink: /teaching/
 
 ## Teaching 
 
-<h5>Spring 2020</h5>
+<h5>Spring 2020 (postponed to a later date)</h5>
 <td markdown="1">
 * MIMM (<a href="https://math-interactions.u-bordeaux.fr/Espace-projets/Moi-Informaticienne-Moi-Mathematicienne" target="_blank">Moi Informaticienne - Moi Mathématicienne)</a>
 	* University of Bordeaux, workshop for girls in high school  

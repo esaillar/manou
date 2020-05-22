@@ -4,6 +4,13 @@ title: Publications
 permalink: /publications/
 ---
 
+### 2020
+
+<b> [<a href="https://c3po-workshop.github.io/" target="_blank">C3PO 2020</a>] </b>
+<p markdown="1">
+Van Man Nguyen, Emmanuelle Saillard, Julien Jaeger, Denis Barthou and Patrick Carribault, "Automatic Code Motion to Extend MPI Nonblocking Overlap Window" TO APPEAR, 2020.
+</p>
+
 ### 2019
 
 <b> [<a href="https://2019.euro-par.org" target="_blank">EuroPar 2019 </a>] </b>
