@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" target="_blank">here</a> (last updated in feb. 2017)
+You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" target="_blank">here</a> (last updated in 2019)
 
 <div class="panel panel-info" markdown="1">
   <div class="panel-heading">
