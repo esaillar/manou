@@ -11,6 +11,14 @@ permalink: /publications/
 Van Man Nguyen, Emmanuelle Saillard, Julien Jaeger, Denis Barthou and Patrick Carribault, "Automatic Code Motion to Extend MPI Nonblocking Overlap Window" TO APPEAR, 2020.
 </p>
 
+<b> [<a href="https://www.cinc2020.org" target="_blank">CinC 2020</a>] </b>
+<p markdown="1">
+Potse M, Saillard E, Barthou D, and Coudière Y.  Feasibility of
+whole-heart electrophysiological models with near-cellular resolution.
+Computing in Cardiology, 2020
+(supported by TGCC)
+</p>
+
 ### 2019
 
 <b> [<a href="https://2019.euro-par.org" target="_blank">EuroPar 2019 </a>] </b>
