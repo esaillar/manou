@@ -7,14 +7,20 @@ permalink: /teaching/
 
 ## Teaching 
 
-
-<h5>Fall 2020</h5>
-<td markdown="1">
-
-<h5>Spring 2020 (postponed to a later date)</h5>
+<h5>Spring 2021?</h5>
 <td markdown="1">
 * MIMM (<a href="https://math-interactions.u-bordeaux.fr/Espace-projets/Moi-Informaticienne-Moi-Mathematicienne" target="_blank">Moi Informaticienne - Moi Mathématicienne)</a>
 	* University of Bordeaux, workshop for girls in high school  
+
+<h5>Fall 2020</h5>
+<td markdown="1">
+* Tree Structures (Teacher)
+	* Enseirb-Matmeca, 1st year
+* Algorithm (Teacher)
+	* Enseirb-Matmeca, 1st year
+* Languages of parallelism (Teacher)
+	* Enseirb-Matmeca, 3rd year
+
 
 <h5>Fall 2019</h5>
 <td markdown="1">

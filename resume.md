@@ -29,18 +29,19 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 <td markdown="1">
 **Current students**
 - **PhD**
-	- [2019-] Célia Tassadit AITKACI, co-supervision with Denis Barthou (Bordeaux INP) and Marc Sergent (ATOS)
-	- [2019-] Van Man NGUYEN, co-supervision with Denis Barthou (Bordeaux INP), Patrick Carribault (CEA), and Julien Jaeger (CEA)
+	- [2019-2022] Célia Tassadit AITKACI, co-supervision with Denis Barthou (Bordeaux INP) and Marc Sergent (ATOS)
+	- [2019-2022] Van Man NGUYEN, co-supervision with Denis Barthou (Bordeaux INP), Patrick Carribault (CEA), and Julien Jaeger (CEA)
+- **Internship**
+	- Mathieu Laurent, co-supervision with Martin Quinson (Undergrad at ENS Renne)
+
+**Former students**
+
 - **Postdoc**
   - [April 2019 - August 2020] Pierre HUCHANT, co-supervision with Costin Iancu (LBNL) 
 <br/> DPEI Inria@SiliconValley funding
 - **Internship**
 	- Vincent Bridonneau (Undergrad at Enseirb-Matmec)
 <br/> *Static Selective Instrumentation for Parallel Programs Verification*
-
-**Former students**
-
-- **Internship**
 	- Radjasouria VINAYAGAME (Undergrad at Enseirb-Matmeca, 2 months in 2019-2020)
 <br/> *Intégration continue et amélioration de la sortie de PARCOACH*
 	- Louise MERCIER (High school student, 2 weeks in 2019)
@@ -80,6 +81,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
+ - <a href="https://correctness-workshop.github.io/2020/" target="_blank"> Correctness 2020 </a> (Program Commitee)
  - <a href="https://sc20.supercomputing.org" target="_blank"> SC 2020 </a> (Program Commitee, Performance)
  - <a href="https://correctness-workshop.github.io/2019/" target="_blank"> Correctness 2019 </a> (Program Commitee)
  - <a href="https://www.ppam.pl" target="_blank"> PPAM 2019 </a> (Program Commitee)
