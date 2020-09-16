@@ -4,6 +4,9 @@ title: Research
 permalink: /research/
 ---
 
+# Research
+
+
 <div class="panel panel-info" markdown="1">
   <div class="panel-heading">
     <h3 class="panel-title">Research topics</h3>

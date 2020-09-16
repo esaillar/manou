@@ -5,7 +5,8 @@ permalink: /teaching/
 ---
 
 
-## Teaching 
+# Teaching 
+
 
 <h5>Spring 2021?</h5>
 <td markdown="1">
