@@ -44,7 +44,7 @@ Code analysis, Debugging, Verification, Static Analysis, Compilation, Optimizati
     <h3 class="panel-title"><span class="glyphicon glyphicon-envelope"></span> Contact Information</h3>
   </div>
   <div class="panel-body">
-<p  markdown="1">**Address**: Inria Bordeaux - Sud-Ouest, 200 avenue de la vieille tour, 33400 Talence cedex, France</p>
+<p  markdown="1">**Address**: Inria Bordeaux - Sud-Ouest, 200 avenue de la vieille tour, 33405 Talence cedex, France</p>
 <p><b>Office:</b> B215, 2nd floor </p>
 <p><b>Work phone:</b> +33 5 24 57 41 24 </p>
 <p><b>Email:</b> emmanuelle (dot) saillard (at) inria (dot) fr </p>

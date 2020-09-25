@@ -9,6 +9,11 @@ permalink: /publications/
 
 ### 2020
 
+<b> [<a href="https://correctness-workshop.github.io/2020/" target="_blank">Correctness 2020</a>] </b>
+<p markdown="1">
+Van Man Nguyen, Emmanuelle Saillard, Julien Jaeger, Denis Barthou and Patrick Carribault, "PARCOACH Extension for Static MPI Nonblocking and Persistent Communication Validation" TO APPEAR, 2020.
+</p>
+
 <b> [<a href="https://c3po-workshop.github.io/" target="_blank">C3PO 2020</a>] </b>
 <p markdown="1">
 Van Man Nguyen, Emmanuelle Saillard, Julien Jaeger, Denis Barthou and Patrick Carribault, "Automatic Code Motion to Extend MPI Nonblocking Overlap Window" TO APPEAR, 2020.

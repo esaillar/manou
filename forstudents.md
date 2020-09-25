@@ -13,7 +13,7 @@ how you end it determines its rhythm and grace” J. M. Williams
 
 ##  Methodological advices
 
-This page gathers documents that can be useful for students. A lot of them are from <a href="http://people.irisa.fr/Martin.Quinson/Research/Students/Methodo/#index2h1">this page</a>.
+This page gathers documents that can be useful for students. A lot of them are from <a href="http://people.irisa.fr/Martin.Quinson/Research/Students/Methodo">this page</a>.
  
 <h5>How to Do Science</h5>
 <td markdown="1">

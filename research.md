@@ -4,7 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-# Research
 
 
 <div class="panel panel-info" markdown="1">
@@ -14,25 +13,26 @@ permalink: /research/
   <div class="panel-body" markdown="1">
 I am interested in developing tools and methods that aim at **debugging** and **optimizing** HPC applications.
 
-I have developed **PARCOACH**, a static/dynamic tool to detect collective errors in parallel applications. The static part identifies the reduced set of collective communications that may eventually lead to potential deadlock situations,
+I have developed **PARCOACH**, a static/dynamic tool that detects collective errors in parallel applications. The static part identifies the reduced set of collective communications that may eventually lead to potential deadlock situations,
  and issues warnings. Using this analysis, a selective instrumentation of the code is then achieved, displaying an error, synchronously
  interrupting all processes, if the schedule leads to a deadlock situation. 
 
 PARCOACH is implemented as a **LLVM pass** and is still under development.
+
+Since 2017, I am part of <a href="http://hacspecis.gforge.inria.fr" target="_blank">HAC SPECIS</a>, an Inria project lab on High-performance Application and Computers: Studying PErformance and Correctness In Simulation (2016 - 2020).
   </div>
 </div>
 
 
 <div class="panel panel-info" markdown="1">
   <div class="panel-heading">
-    <h3 class="panel-title">Projects</h3>
+    <h3 class="panel-title">Grants</h3>
   </div>
   <div class="panel-body">
 <td markdown="1">
-- <p> <a href="http://hacspecis.gforge.inria.fr" target="_blank">HAC SPECIS</a>, Inria project lab on High-performance Application and Computers: Studying PErformance and Correctness In Simulation (2016 - 2020).</p>
-- <p> ANR Exacard </p> 
-- <p> H2020 Microcard </p> 
-- <p> COHPC (COrrectness and performance of HPC applications), Inria associate team (2019 - 2021). <a href="https://team.inria.fr/cohpc/" target="_blank">Visit the website</a></p> 
+- <p> Exacard, ANR 2018 (Participant) </p> 
+- <p> <a href="https://team.inria.fr/cohpc/" target="_blank">COHPC</a> : COrrectness and performance of HPC applications (French co-PI), Inria associate team (2019 - 2021), 10k€/year </p> 
+- <p> Microcard, H2020 (Participant) </p> 
 </td>
   </div>
 </div>
