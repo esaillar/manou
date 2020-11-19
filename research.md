@@ -77,9 +77,10 @@ PARallel COntrol flow Anomaly CHecker (PARCOACH) aims at helping developers in t
 
 <div class="panel panel-danger" markdown="1">
   <div class="panel-heading">
-    <h3 class="panel-title">Open Internship Positions</h3>
+    <h3 class="panel-title">Open Internship Positions (contact me if you are interested)</h3>
   </div>
   <div class="panel-body">
-	no position available
+	- Identifying the Benefit of Communication Aggregation in HPC Applications
+  - Exécution SPMD à partir d'un code à base de tâches
   </div>
 </div>
