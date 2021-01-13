@@ -31,7 +31,7 @@ Since 2017, I am part of <a href="http://hacspecis.gforge.inria.fr" target="_bla
   <div class="panel-body">
 <td markdown="1">
 - <p> Exacard, ANR 2018 (Participant) </p> 
-- <p> <a href="https://team.inria.fr/cohpc/" target="_blank">COHPC</a> : COrrectness and performance of HPC applications (French co-PI), Inria associate team (2019 - 2021), 10k€/year </p> 
+- <p> <a href="https://team.inria.fr/cohpc/" target="_blank">COHPC</a> : COrrectness and performance of HPC applications (French PI), Inria associate team (2019 - 2021), 10k€/year </p> 
 - <p> Microcard, H2020 (Participant) </p> 
 </td>
   </div>
@@ -81,6 +81,5 @@ PARallel COntrol flow Anomaly CHecker (PARCOACH) aims at helping developers in t
   </div>
   <div class="panel-body">
 	- Identifying the Benefit of Communication Aggregation in HPC Applications
-  - Exécution SPMD à partir d'un code à base de tâches
   </div>
 </div>
