@@ -19,3 +19,4 @@ permalink: /other/
 
 * <a href="https://www.coloreslavie.com" target="_blank">Colores la vie</a>
 * <a href="https://www.makerist.fr" target="_blank">Makerist</a>
+* <a href="https://khuccay.com" target="_blank">Les petites mains de Khuc cay</a>

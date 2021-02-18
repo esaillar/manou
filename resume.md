@@ -19,12 +19,12 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 	- [2019-2022] Célia Tassadit AITKACI, co-supervision with Denis Barthou (Bordeaux INP) and Marc Sergent (ATOS)
 	- [2019-2022] Van Man NGUYEN, co-supervision with Denis Barthou (Bordeaux INP), Patrick Carribault (CEA), and Julien Jaeger (CEA)
 - **Internship**
-	- Mathieu Laurent, co-supervision with Martin Quinson (Undergrad at ENS Rennes)
+	- Mathieu Laurent, co-supervision with <a href="https://people.irisa.fr/Martin.Quinson/" target="_blank"> Martin Quinson</a> (Undergrad at ENS Rennes)
 
 **Former students**
 
 - **Postdoc**
-  - [April 2019 - August 2020] Pierre HUCHANT, co-supervision with Costin Iancu (LBNL) 
+  - [April 2019 - August 2020] Pierre HUCHANT, co-supervision with  <a href="https://crd.lbl.gov/departments/computer-science/class/members/class-staff/costin-iancu/" target="_blank">Costin Iancu</a> (LBNL) 
 <br/> DPEI Inria@SiliconValley funding
 - **Internship**
 	- Vincent BRIDONNEAU (Undergrad at Enseirb-Matmec)
@@ -64,7 +64,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
  <td markdown="1">
  - 2022, ICPP: Local Arrangment Chair
  - 2021, <a href="http://compilfr.ens-lyon.fr/quatorzieme-rencontre-compilation/" target="_blank"> French compilation days</a>: General Chair, <a href="https://c3po-workshop.github.io/2021/index" target="_blank"> C3PO</a>: Workshop General chair, <a href="https://2021.compas-conference.fr/" target="_blank"> Compas</a>: Track Chair
- - 2020: <a href="https://c3po-workshop.github.io/index" target="_blank"> C3PO</a>:  Workshop Associate Chair
+ - 2020, <a href="https://c3po-workshop.github.io/index" target="_blank"> C3PO</a>:  Workshop Associate Chair
  </td>
    </div>
  </div>
@@ -108,6 +108,18 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
  </div>
 
+ <div class="panel panel-info" markdown="1">
+   <div class="panel-heading">
+     <h3 class="panel-title">Other</h3>
+   </div>
+   <div class="panel-body">
+ <td markdown="1">
+ - Coordinator and active member of the <a href="http://compilfr.ens-lyon.fr" target="_blank"> French Compilation group </a> (now CLAP) 
+ </td>
+   </div>
+
+
+ </div>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
 
