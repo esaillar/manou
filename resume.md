@@ -6,19 +6,6 @@ permalink: /resume/
 
 You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" target="_blank">here</a> (last updated in 2019)
 
-<div class="panel panel-info" markdown="1">
-  <div class="panel-heading">
-    <h3 class="panel-title"> Research positions </h3>
-  </div>
-  <div class="panel-body">
-<td markdown="1">
-- Oct. 2017-...: **Research scientist (CRCN)**, Inria Bordeaux (STORM team), France
-- Dec.2016-Sept.2017: **Postdoctoral fellow**, Inria Grenoble (CORSE team), France
-- Oct.2015-Oct.2016: **Postdoctoral fellow**, University of California Berkeley, USA
-</td>
-  </div>
-</div>
-
 
 
  <div class="panel panel-info" markdown="1">
@@ -56,6 +43,14 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 <br/> *Validation des applications parallèles multi-modèles sur supercalculateur - Extension de PARCOACH*
 	- Arthur LOUSSERT (Undergrad at University of Versailles, 2 months internship in 2014), co-supervision with Patrick Carribault (CEA, France)
 <br/> *Evaluation d'une méthode d'analyse dynamique pour la validation des applications en environnement massivement parallèle*
+
+
+**PhD Jury**
+- [Jan 2021] James Trotter, University of Oslo (reviewer)
+- [Dec 2020] Tao Chang, Institut Polytechnique de Paris (member) 
+- [June 2020] Jeremy Lagraviere, University of Oslo (reviewer)
+
+
 </td>
   </div>
 </div>
@@ -67,10 +62,9 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - <a href="https://c3po-workshop.github.io/index" target="_blank"> C3PO 2020</a> - Workshop associate chair
- - C3PO 2021 - Workshop associate chair
- - <a href="https://2021.compas-conference.fr/" target="_blank"> Compas 2021 </a> - Track Chair
- - <a href="http://compilfr.ens-lyon.fr/quatorzieme-rencontre-compilation/" target="_blank"> French compilation days 2021 </a> - Chair
+ - 2022, ICPP: Local Arrangment Chair
+ - 2021, <a href="http://compilfr.ens-lyon.fr/quatorzieme-rencontre-compilation/" target="_blank"> French compilation days</a>: General Chair, <a href="https://c3po-workshop.github.io/2021/index" target="_blank"> C3PO</a>: Workshop General chair, <a href="https://2021.compas-conference.fr/" target="_blank"> Compas</a>: Track Chair
+ - 2020: <a href="https://c3po-workshop.github.io/index" target="_blank"> C3PO</a>:  Workshop Associate Chair
  </td>
    </div>
  </div>
@@ -83,27 +77,33 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - <a href="https://correctness-workshop.github.io/2020/" target="_blank"> Correctness 2020 </a> (Program Commitee)
- - <a href="https://sc20.supercomputing.org" target="_blank"> SC 2020 </a> (Program Commitee, Performance)
- - <a href="https://correctness-workshop.github.io/2019/" target="_blank"> Correctness 2019 </a> (Program Commitee)
- - <a href="https://www.ppam.pl" target="_blank"> PPAM 2019 </a> (Program Commitee)
- - <a href="http://hpcs2019.cisedu.info/2-conference/symposia/symp05-4pad" target="_blank"> 4PAD 2019 </a> (Program Commitee)
- - <a href="https://2019.compas-conference.fr" target="_blank"> Compas'19 </a> (Program Commitee)
- - <a href="https://omasew.github.io" target="_blank"> OMASE'19 </a> (Program Commitee)
- - <a href="https://sc18.supercomputing.org" target="_blank"> SC'18 </a> (Workshop Commitee)
- - <a href="http://2018.compas-conference.fr/#" target="_blank"> Compas'18 </a> (Program Commitee, track parallelism)
- - <a href="https://www.isc-hpc.com" target="_blank"> ISC'18 </a> (Poster Commitee)
+ - 2020, <a href="https://correctness-workshop.github.io/2020/" target="_blank"> Correctness</a>, <a href="https://sc20.supercomputing.org" target="_blank"> SC</a> (Performance)
+ - 2019, <a href="https://correctness-workshop.github.io/2019/" target="_blank"> Correctness</a>, <a href="https://www.ppam.pl" target="_blank"> PPAM</a>, <a href="http://hpcs2019.cisedu.info/2-conference/symposia/symp05-4pad" target="_blank"> 4PAD </a>, <a href="https://2019.compas-conference.fr" target="_blank"> Compas </a>, <a href="https://omasew.github.io" target="_blank"> OMASE </a>
+ - 2018, <a href="https://sc18.supercomputing.org" target="_blank"> SC</a> (Workshop), <a href="http://2018.compas-conference.fr/#" target="_blank"> Compas </a>, <a href="https://www.isc-hpc.com" target="_blank"> ISC</a> (Poster)
  </td>
    </div>
  </div>
  
  <div class="panel panel-info" markdown="1">
    <div class="panel-heading">
-     <h3 class="panel-title">Other</h3>
+     <h3 class="panel-title">Outreach</h3>
+   </div>
+   <div class="panel-body">
+ <td markdown="1">
+ - MIMM (<a href="https://math-interactions.u-bordeaux.fr/Espace-projets/Moi-Informaticienne-Moi-Mathematicienne" target="_blank">Moi Informaticienne - Moi Mathématicienne)</a>): University of Bordeaux, workshop for girls in high school 
+- Chiche! 1 scientifique, 1 classe <a href="https://www.francebleu.fr/infos/societe/gironde-des-chercheurs-dans-les-lycees-pour-casser-les-cliches-sur-les-metiers-scientifiques-1601646438" target="_blank">[intervention (fr)]</a>
+ </td>
+   </div>
+ </div>
+
+ <div class="panel panel-info" markdown="1">
+   <div class="panel-heading">
+     <h3 class="panel-title">Institutional Responsibilities</h3>
    </div>
    <div class="panel-body">
  <td markdown="1">
  - Since 2018, I am the treasurer of AGOS (Association de Gestion des Œuvres Sociales) at Inria Bordeaux research center
+ - Member of the Commission de délégation (delegation, postdoc, cordi-s)
  </td>
    </div>
  </div>
@@ -130,3 +130,15 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
   </div>
 </div>
 
+<div class="panel panel-info" markdown="1">
+  <div class="panel-heading">
+    <h3 class="panel-title"> Research positions </h3>
+  </div>
+  <div class="panel-body">
+<td markdown="1">
+- Oct. 2017-...: **Research scientist (CRCN)**, Inria Bordeaux (STORM team), France
+- Dec.2016-Sept.2017: **Postdoctoral fellow**, Inria Grenoble (CORSE team), France
+- Oct.2015-Oct.2016: **Postdoctoral fellow**, University of California Berkeley, USA
+</td>
+  </div>
+</div>
