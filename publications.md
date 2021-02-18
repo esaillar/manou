@@ -7,16 +7,19 @@ permalink: /publications/
 # Publications
 
 
+
 ### 2020
 
 <b> [<a href="https://correctness-workshop.github.io/2020/" target="_blank">Correctness 2020</a>] </b>
+<b> [<a href="https://hal-cea.archives-ouvertes.fr/cea-03014171/document" target="_blank">pdf </a>] </b>
 <p markdown="1">
-Van Man Nguyen, Emmanuelle Saillard, Julien Jaeger, Denis Barthou and Patrick Carribault, "PARCOACH Extension for Static MPI Nonblocking and Persistent Communication Validation" TO APPEAR, 2020.
+Van Man Nguyen, Emmanuelle Saillard, Julien Jaeger, Denis Barthou and Patrick Carribault, "PARCOACH Extension for Static MPI Nonblocking and Persistent Communication Validation", Correctness 2020: Fourth International Workshop on Software Correctness for HPC Applications, Nov 2020, Atlanta / Virtual, United States, 2020.
 </p>
 
 <b> [<a href="https://c3po-workshop.github.io/" target="_blank">C3PO 2020</a>] </b>
+<b> [<a href="https://hal-cea.archives-ouvertes.fr/cea-03010533/document" target="_blank">pdf </a>] </b>
 <p markdown="1">
-Van Man Nguyen, Emmanuelle Saillard, Julien Jaeger, Denis Barthou and Patrick Carribault, "Automatic Code Motion to Extend MPI Nonblocking Overlap Window" TO APPEAR, 2020.
+Van Man Nguyen, Emmanuelle Saillard, Julien Jaeger, Denis Barthou and Patrick Carribault, "Automatic Code Motion to Extend MPI Nonblocking Overlap Window", C3PO'20 Workshop - First Workshop on Compiler-Assisted Correctness Checking and Performance Optimization for HPC, Jun 2020, Frankfurt / Virtual, Germany. pp.43-54, 2020.
 </p>
 
 <b> [<a href="https://www.cinc2020.org" target="_blank">CinC 2020</a>] </b>
