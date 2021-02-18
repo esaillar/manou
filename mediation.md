@@ -20,4 +20,6 @@ permalink: /mediation/
 
 La Pyramide de Chine / Great Pyramid of China
 
+This activity aims at introducing High performance computing to middle- and high-school students while doing maths.
+
 Download the <a href="{{site.baseurl}}/resources/ReglesETdefis.pdf" target="_blank">rules and challenges </a> document and the document <a href="{{site.baseurl}}/resources/PyramideDeChine.pdf" target="_blank">for animator</a> (all in french)  

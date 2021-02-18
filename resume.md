@@ -19,7 +19,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 	- [2019-2022] Célia Tassadit AITKACI, co-supervision with Denis Barthou (Bordeaux INP) and Marc Sergent (ATOS)
 	- [2019-2022] Van Man NGUYEN, co-supervision with Denis Barthou (Bordeaux INP), Patrick Carribault (CEA), and Julien Jaeger (CEA)
 - **Internship**
-	- Mathieu Laurent, co-supervision with Martin Quinson (Undergrad at ENS Renne)
+	- Mathieu Laurent, co-supervision with Martin Quinson (Undergrad at ENS Rennes)
 
 **Former students**
 
@@ -27,7 +27,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
   - [April 2019 - August 2020] Pierre HUCHANT, co-supervision with Costin Iancu (LBNL) 
 <br/> DPEI Inria@SiliconValley funding
 - **Internship**
-	- Vincent Bridonneau (Undergrad at Enseirb-Matmec)
+	- Vincent BRIDONNEAU (Undergrad at Enseirb-Matmec)
 <br/> *Static Selective Instrumentation for Parallel Programs Verification*
 	- Radjasouria VINAYAGAME (Undergrad at Enseirb-Matmeca, 2 months in 2019-2020)
 <br/> *Intégration continue et amélioration de la sortie de PARCOACH*
@@ -48,7 +48,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 **PhD Jury**
 - [Jan 2021] James Trotter, University of Oslo (reviewer)
 - [Dec 2020] Tao Chang, Institut Polytechnique de Paris (member) 
-- [June 2020] Jeremy Lagraviere, University of Oslo (reviewer)
+- [June 2020] Jérémy Lagravière, University of Oslo (reviewer)
 
 
 </td>
@@ -90,7 +90,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - MIMM (<a href="https://math-interactions.u-bordeaux.fr/Espace-projets/Moi-Informaticienne-Moi-Mathematicienne" target="_blank">Moi Informaticienne - Moi Mathématicienne)</a>): University of Bordeaux, workshop for girls in high school 
+ - MIMM (<a href="https://math-interactions.u-bordeaux.fr/Espace-projets/Moi-Informaticienne-Moi-Mathematicienne" target="_blank">Moi Informaticienne - Moi Mathématicienne)</a>), University of Bordeaux, workshop for girls in high school 
 - Chiche! 1 scientifique, 1 classe <a href="https://www.francebleu.fr/infos/societe/gironde-des-chercheurs-dans-les-lycees-pour-casser-les-cliches-sur-les-metiers-scientifiques-1601646438" target="_blank">[intervention (fr)]</a>
  </td>
    </div>
@@ -102,7 +102,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - Since 2018, I am the treasurer of AGOS (Association de Gestion des Œuvres Sociales) at Inria Bordeaux research center
+ - I am the treasurer of AGOS (Association de Gestion des Œuvres Sociales) at Inria Bordeaux research center and a member of AGOS national
  - Member of the Commission de délégation (delegation, postdoc, cordi-s)
  </td>
    </div>
