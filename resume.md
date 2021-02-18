@@ -16,7 +16,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
 <td markdown="1">
 **Current students**
 - **PhD**
-	- [2019-2022] Célia Tassadit AITKACI, co-supervision with Denis Barthou (Bordeaux INP) and Marc Sergent (ATOS)
+	- [2019-2022] Célia Tassadit AITKACI, co-supervision with <a href="https://www.labri.fr/perso/barthou/" target="_blank">Denis Barthou</a> (Bordeaux INP) and Marc Sergent (ATOS)
 	- [2019-2022] Van Man NGUYEN, co-supervision with Denis Barthou (Bordeaux INP), Patrick Carribault (CEA), and Julien Jaeger (CEA)
 - **Internship**
 	- Mathieu Laurent, co-supervision with <a href="https://people.irisa.fr/Martin.Quinson/" target="_blank"> Martin Quinson</a> (Undergrad at ENS Rennes)
@@ -102,7 +102,7 @@ You can download my resume <a href="{{site.baseurl}}/resources/cv_eng.pdf" targe
    </div>
    <div class="panel-body">
  <td markdown="1">
- - I am the treasurer of AGOS (Association de Gestion des Œuvres Sociales) at Inria Bordeaux research center and a member of AGOS national
+ - Treasurer of AGOS (Association de Gestion des Œuvres Sociales) at Inria Bordeaux research center and member of AGOS national
  - Member of the Commission de délégation (delegation, postdoc, cordi-s)
  </td>
    </div>
