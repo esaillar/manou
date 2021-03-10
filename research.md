@@ -18,8 +18,6 @@ I have developed **PARCOACH**, a static/dynamic tool that detects collective err
  interrupting all processes, if the schedule leads to a deadlock situation. 
 
 PARCOACH is implemented as a **LLVM pass** and is still under development.
-
-Since 2017, I am part of <a href="http://hacspecis.gforge.inria.fr" target="_blank">HAC SPECIS</a>, an Inria project lab on High-performance Application and Computers: Studying PErformance and Correctness In Simulation (2016 - 2020).
   </div>
 </div>
 
@@ -37,6 +35,16 @@ Since 2017, I am part of <a href="http://hacspecis.gforge.inria.fr" target="_bla
   </div>
 </div>
 
+<div class="panel panel-info" markdown="1">
+  <div class="panel-heading">
+    <h3 class="panel-title">Former projects</h3>
+  </div>
+  <div class="panel-body">
+<td markdown="1">
+- <p> <a href="http://hacspecis.gforge.inria.fr" target="_blank">HAC SPECIS</a>, Inria project lab on High-performance Application and Computers: Studying PErformance and Correctness In Simulation (2016 - 2020).
+</td>
+  </div>
+</div>
 
 <div class="panel panel-info" markdown="1">
   <div class="panel-heading">

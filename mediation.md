@@ -6,7 +6,7 @@ permalink: /mediation/
 
 # Mediation
 
-## Unplugged activities 
+### Unplugged activities 
  
 <h5>In french</h5>
 <td markdown="1">
@@ -16,9 +16,8 @@ permalink: /mediation/
 * https://interstices.info/domaine/architecture-systemes/
 
 
-## My own unplugged activity
+### My own unplugged activity:  La Pyramide de Chine / Great Pyramid of China
 
-La Pyramide de Chine / Great Pyramid of China
 
 This activity aims at introducing High performance computing to middle- and high-school students while doing maths.
 
