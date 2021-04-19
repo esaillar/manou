@@ -30,7 +30,7 @@ PARCOACH is implemented as a **LLVM pass** and is still under development.
 <td markdown="1">
 - <p> Exacard, ANR 2018 (Participant) </p> 
 - <p> <a href="https://team.inria.fr/cohpc/" target="_blank">COHPC</a> : COrrectness and performance of HPC applications (French PI), Inria associate team (2019 - 2021), 10k€/year </p> 
-- <p> Microcard, H2020 (Participant) </p> 
+- <p> <a href="http://www.microcard.eu/index-en.html" target="_blank">Microcard</a>, H2020 (Participant) </p> 
 </td>
   </div>
 </div>
@@ -88,6 +88,6 @@ PARallel COntrol flow Anomaly CHecker (PARCOACH) aims at helping developers in t
     <h3 class="panel-title">Open Internship Positions (contact me if you are interested)</h3>
   </div>
   <div class="panel-body">
-	- Identifying the Benefit of Communication Aggregation in HPC Applications
+	- <a href="https://team.inria.fr/storm/stage-m1-ou-m2-identifying-the-benefit-of-communication-aggregation-in-hpc-applications/" target="_blank"> Identifying the Benefit of Communication Aggregation in HPC Applications</a>
   </div>
 </div>
