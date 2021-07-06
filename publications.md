@@ -6,6 +6,12 @@ permalink: /publications/
 
 # Publications
 
+### 2021
+
+<b> [<a href="https://www.eurompi21.lrz.de" target="_blank">EuroMPI 2021</a>] </b>
+<p markdown="1">
+Tassadit Aitkaci, Marc Sergent, Emmanuelle Saillard, Denis Barthou and Guillaume Papaure, "Dynamic Data Race Detection for MPI-RMA Programs", 2021. TO APPEAR
+</p>
 
 
 ### 2020
@@ -24,8 +30,8 @@ Van Man Nguyen, Emmanuelle Saillard, Julien Jaeger, Denis Barthou and Patrick Ca
 
 <b> [<a href="https://www.cinc2020.org" target="_blank">CinC 2020</a>] </b>
 <p markdown="1">
-Potse M, Saillard E, Barthou D, and Coudière Y.  Feasibility of
-whole-heart electrophysiological models with near-cellular resolution.
+Potse M, Saillard E, Barthou D, and Coudière Y.  "Feasibility of
+whole-heart electrophysiological models with near-cellular resolution."
 Computing in Cardiology, 2020
 (supported by TGCC)
 </p>
